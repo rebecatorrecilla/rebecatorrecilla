@@ -23,13 +23,11 @@ You can see some of the main projects I finished recently in the next repositori
   <a href="https://github.com/rebecatorrecilla/Data-Warehousing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=Data-Warehousing&theme=radical" />
   </a>
-</div>
 
-<div align="center">
   <a href="https://github.com/rebecatorrecilla/AEDChallenge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=AEDChallenge&theme=radical" />
   </a>
- 
+</div>
 
 ---
 
