@@ -25,6 +25,17 @@ You can see some of the main projects I finished recently in the next repositori
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/rebecatorrecilla/Data-Warehousing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=Data-Warehousing&theme=radical" />
+  </a>
+  
+  <!-- You can add a second one right next to it by just pasting another block -->
+  <a href="https://github.com/rebecatorrecilla/OTHER_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=AEDChallenge&theme=radical" />
+  </a>
+</div>
+
 ---
 
 ### 🎻 The Human Side (Hobbies)
