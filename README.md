@@ -1,6 +1,35 @@
 <h1 align="center">Hi 👋, I'm Rebeca</h1>
 <h3 align="center">A Data Science and Engineering student from Barcelona</h3>
 
+<div align="center">
+  <em>Studying at <a href="https://www.upc.edu/en">Universitat Politècnica de Catalunya (UPC)</a></em>
+</div>
+
+<br />
+
+---
+
+### 👨‍💻 About Me
+
+I am a passionate Engineering student navigating the world of Data Science. My goal is to bridge the gap between complex data and real-world solutions, specifically in fields that impact humanity and our understanding of the universe.
+
+*   🔭 **I’m currently focusing on:** Advanced Statistics and Machine Learning algorithms.
+*   🌌 **My Scientific Interests:** I love exploring the intersection of data with **Astronomy** (analyzing the cosmos) and **Healthcare/Medicine** (improving lives through data).
+*   🌱 **I’m currently learning:** How to apply machine learning and predictive algorithms in order to prevent perinatal hypoxia with the collaboration of the BCNatal Fetal Medicine Research Center.  
+
+---
+
+### 🎻 The Human Side (Hobbies)
+
+When I'm not crunching numbers or training models, you can find me:
+
+*   🎹 **Making Music:** I play both the **Piano** and **Violin**. I believe code has a rhythm, just like classical music.
+*   📸 **Photography:** Capturing moments and playing with composition.
+*   🏋️ **Gym:** Keeping the mind sharp by keeping the body strong.
+*   🌍 **Languages:** I love the challenge of learning new languages and cultures.
+
+---
+
 - 📫 How to reach me **rebeca.torrecilla@estudiantat.upc.edu**
 
 <h3 align="left">Connect with me:</h3>
