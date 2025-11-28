@@ -18,16 +18,10 @@ I am a passionate Engineering student navigating the world of Data Science. My g
 *   🌱 **I’m currently learning:** How to apply machine learning and predictive algorithms in order to prevent perinatal hypoxia with the collaboration of the BCNatal Fetal Medicine Research Center.
 
 You can see some of the main projects I finished recently in the next repositories:
+*   📌 [Data Warehousing](https://github.com/rebecatorrecilla/Data-Warehousing): step by step creation of an ETL with its multidimensional design.
+*   📌[Datathon AED Challenge 2024](https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=AEDChallenge&theme=radical): a solution for a common graph problem. 
 
-<div align="center">
-  <a href="https://github.com/rebecatorrecilla/Data-Warehousing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=Data-Warehousing&theme=radical" />
-  </a>
 
-  <a href="https://github.com/rebecatorrecilla/AEDChallenge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=AEDChallenge&theme=radical" />
-  </a>
-</div>
 
 ---
 
