@@ -21,6 +21,7 @@ You can see some of the main projects I finished recently in the next repositori
 *   📌 [Data Warehousing](https://github.com/rebecatorrecilla/Data-Warehousing): step by step creation of an ETL with its multidimensional design.
 *   📌 [Analysis of Classifiers for the Detection of Liver Diseases in the ILPD Dataset](https://github.com/rebecatorrecilla/Analysis-of-Classifiers-in-Liver-Disease-Prediction): comparison of performance between different classifiers (such as *RandomForest*, *ExtraTreesClassifier*, *LogisticRegression*...) in the prediction of liver diseases from indians patients.
 *   📌[Spark Performance Analysis: Sequential vs. Distributed (RDD & SQL)](https://github.com/rebecatorrecilla/Spark): This project evaluates the performance of Apache Spark by comparing three different implementations of a data analysis application. The study focuses on how execution time varies according to input data size, contrasting a sequential approach against distributed processing methods.
+*   📌 [HPC Project: Scalability & Energy Efficiency Analysis](https://github.com/rebecatorrecilla/HPC-Project): in this project the primary objective is to evaluate the performance, scalability, and energy consumption of high-performance computing applications running on a supercomputing cluster (utilizing the MN5 environment).
 *   📌[Datathon AED Challenge 2024](https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=AEDChallenge&theme=radical): a solution for a common graph problem. 
 
 
