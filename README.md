@@ -19,7 +19,8 @@ I am a passionate Engineering student navigating the world of Data Science. My g
 
 You can see some of the main projects I finished recently in the next repositories:
 *   📌 [Data Warehousing](https://github.com/rebecatorrecilla/Data-Warehousing): step by step creation of an ETL with its multidimensional design.
-*   📌 [Analysis of Classifiers for the Detection of Liver Diseases in the ILPD Dataset](https://github.com/rebecatorrecilla/Analysis-of-Classifiers-in-Liver-Disease-Prediction): comparison of performance between different classifiers (such as *RandomForest*, *ExtraTreesClassifier*, *LogisticRegression*...) in the prediction of liver diseases from indians patients. 
+*   📌 [Analysis of Classifiers for the Detection of Liver Diseases in the ILPD Dataset](https://github.com/rebecatorrecilla/Analysis-of-Classifiers-in-Liver-Disease-Prediction): comparison of performance between different classifiers (such as *RandomForest*, *ExtraTreesClassifier*, *LogisticRegression*...) in the prediction of liver diseases from indians patients.
+*   📌[Spark Performance Analysis: Sequential vs. Distributed (RDD & SQL)](https://github.com/rebecatorrecilla/Spark): This project evaluates the performance of Apache Spark by comparing three different implementations of a data analysis application. The study focuses on how execution time varies according to input data size, contrasting a sequential approach against distributed processing methods.
 *   📌[Datathon AED Challenge 2024](https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=AEDChallenge&theme=radical): a solution for a common graph problem. 
 
 
