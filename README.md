@@ -18,6 +18,7 @@ I am a passionate Engineering student navigating the world of Data Science. My g
 *   🌱 **I’m currently learning:** How to apply machine learning and predictive algorithms in order to prevent perinatal hypoxia with the collaboration of the BCNatal Fetal Medicine Research Center.
 
 You can see some of the main projects I finished recently in the next repositories:
+*   📌 [Explanatory Visualization](https://github.com/rebecatorrecilla/Explanatory-Visualization): this project aims to provide an intuitive visualization of the NSF terminated grants from Trump's administration in 2025 using Altair and Streamlit.  
 *   📌 [Data Warehousing](https://github.com/rebecatorrecilla/Data-Warehousing): step by step creation of an ETL with its multidimensional design.
 *   📌 [Analysis of Classifiers for the Detection of Liver Diseases in the ILPD Dataset](https://github.com/rebecatorrecilla/Analysis-of-Classifiers-in-Liver-Disease-Prediction): comparison of performance between different classifiers (such as *RandomForest*, *ExtraTreesClassifier*, *LogisticRegression*...) in the prediction of liver diseases from indians patients.
 *   📌[Spark Performance Analysis: Sequential vs. Distributed (RDD & SQL)](https://github.com/rebecatorrecilla/Spark): This project evaluates the performance of Apache Spark by comparing three different implementations of a data analysis application. The study focuses on how execution time varies according to input data size, contrasting a sequential approach against distributed processing methods.
