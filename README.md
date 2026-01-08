@@ -18,6 +18,7 @@ I am a passionate Engineering student navigating the world of Data Science. My g
 *   🌱 **I’m currently learning:** How to apply machine learning and predictive algorithms in order to prevent perinatal hypoxia with the collaboration of the BCNatal Fetal Medicine Research Center.
 
 You can see some of the main projects I finished recently in the next repositories:
+*   📌 [Algorithmics Problem with Soft Constraints](https://github.com/rebecatorrecilla/Algorithmics-Problem-with-Soft-Constraints): a project made to optimize the production sequence of cars in a manufacturing line to minimize efficiency penalties through three types of algorithms: exhaustive, greedy and metaheuristics. 
 *   📌 [Explanatory Visualization](https://github.com/rebecatorrecilla/Explanatory-Visualization): this project aims to provide an intuitive visualization of the NSF terminated grants from Trump's administration in 2025 using Altair and Streamlit.  
 *   📌 [Data Warehousing](https://github.com/rebecatorrecilla/Data-Warehousing): step by step creation of an ETL with its multidimensional design.
 *   📌 [Analysis of Classifiers for the Detection of Liver Diseases in the ILPD Dataset](https://github.com/rebecatorrecilla/Analysis-of-Classifiers-in-Liver-Disease-Prediction): comparison of performance between different classifiers (such as *RandomForest*, *ExtraTreesClassifier*, *LogisticRegression*...) in the prediction of liver diseases from indians patients.
