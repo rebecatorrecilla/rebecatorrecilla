@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rebeca;Data+Science+and+Engineering+student;%40UPC%2C+Barcelona)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rebeca;Data+Science+%26+Engineering;%40UPC%2C+Barcelona)](https://git.io/typing-svg)
 
 <div align="center">
   <em>Studying at <a href="https://www.upc.edu/en">Universitat Politècnica de Catalunya (UPC)</a></em>
