@@ -25,7 +25,7 @@ You can see some of the main projects I finished recently in the next repositori
 *   📌[Spark Performance Analysis: Sequential vs. Distributed (RDD & SQL)](https://github.com/rebecatorrecilla/Spark): This project evaluates the performance of Apache Spark by comparing three different implementations of a data analysis application. The study focuses on how execution time varies according to input data size, contrasting a sequential approach against distributed processing methods.
 *   📌 [Pattern Recognition with Single Layer Neural Network (SLNN)](https://github.com/rebecatorrecilla/Pattern-Recognition-SLNN): The main objective is to develop an application capable of recognizing blurred digits (0-9) from a sequence of images. To achieve this, we implemented and trained a Single Layer Neural Network (SLNN) using various first-derivative optimization methods.
 *   📌 [HPC Project: Scalability & Energy Efficiency Analysis](https://github.com/rebecatorrecilla/HPC-Project): in this project the primary objective is to evaluate the performance, scalability, and energy consumption of high-performance computing applications running on a supercomputing cluster (utilizing the MN5 environment).
-*   📌[Datathon AED Challenge 2024](https://github-readme-stats.vercel.app/api/pin/?username=rebecatorrecilla&repo=AEDChallenge&theme=radical): a solution for a common graph problem. 
+*   📌[Datathon AED Challenge 2024](https://github.com/rebecatorrecilla/AEDChallenge): a solution for a common graph problem. 
 
 
 
